@@ -1,0 +1,2952 @@
+VERÝ TARÝHÝ: 2025-03-22 22:35:41.328963
+
+Hisse Adi: A1CAP
+Hisse Fiyati: 4,48
+Degisim: -0,46
+Hacim: 25.508.327
+
+Hisse Adi: ACSEL
+Hisse Fiyati: 99,40
+Degisim: -6,80
+Hacim: 12.804.358
+
+Hisse Adi: ADEL
+Hisse Fiyati: 29,76
+Degisim: -2,64
+Hacim: 90.472.678
+
+Hisse Adi: ADESE
+Hisse Fiyati: 1,76
+Degisim: -0,14
+Hacim: 64.876.787
+
+Hisse Adi: ADGYO
+Hisse Fiyati: 27,98
+Degisim: -0,74
+Hacim: 31.084.576
+
+Hisse Adi: AEFES
+Hisse Fiyati: 155,70
+Degisim: -17,30
+Hacim: 2.274.645.239
+
+Hisse Adi: AFYON
+Hisse Fiyati: 13,68
+Degisim: -1,05
+Hacim: 66.574.612
+
+Hisse Adi: AGESA
+Hisse Fiyati: 140,70
+Degisim: -6,40
+Hacim: 232.823.918
+
+Hisse Adi: AGHOL
+Hisse Fiyati: 276,75
+Degisim: -30,75
+Hacim: 335.507.817
+
+Hisse Adi: AGROT
+Hisse Fiyati: 7,56
+Degisim: -0,66
+Hacim: 182.710.715
+
+Hisse Adi: AGYO
+Hisse Fiyati: 5,86
+Degisim: -0,59
+Hacim: 5.882.178
+
+Hisse Adi: AHGAZ
+Hisse Fiyati: 20,56
+Degisim: -0,36
+Hacim: 105.764.661
+
+Hisse Adi: AHSGY
+Hisse Fiyati: 18,70
+Degisim: -1,38
+Hacim: 57.605.335
+
+Hisse Adi: AKBNK
+Hisse Fiyati: 53,75
+Degisim: -5,95
+Hacim: 11.799.927.348
+
+Hisse Adi: AKCNS
+Hisse Fiyati: 178,30
+Degisim: -1,70
+Hacim: 119.870.635
+
+Hisse Adi: AKENR
+Hisse Fiyati: 9,37
+Degisim: -0,77
+Hacim: 64.345.678
+
+Hisse Adi: AKFGY
+Hisse Fiyati: 1,78
+Degisim: -0,11
+Hacim: 46.133.376
+
+Hisse Adi: AKFIS
+Hisse Fiyati: 18,08
+Degisim: -1,98
+Hacim: 105.924.667
+
+Hisse Adi: AKFYE
+Hisse Fiyati: 14,91
+Degisim: -1,14
+Hacim: 58.304.052
+
+Hisse Adi: AKGRT
+Hisse Fiyati: 6,16
+Degisim: -0,60
+Hacim: 82.221.988
+
+Hisse Adi: AKMGY
+Hisse Fiyati: 205,50
+Degisim: -17,40
+Hacim: 7.854.456
+
+Hisse Adi: AKSA
+Hisse Fiyati: 10,58
+Degisim: -0,67
+Hacim: 197.164.576
+
+Hisse Adi: AKSEN
+Hisse Fiyati: 31,10
+Degisim: -3,00
+Hacim: 222.651.597
+
+Hisse Adi: AKSGY
+Hisse Fiyati: 6,41
+Degisim: -0,37
+Hacim: 25.629.922
+
+Hisse Adi: AKSUE
+Hisse Fiyati: 15,86
+Degisim: -1,14
+Hacim: 17.846.796
+
+Hisse Adi: AKYHO
+Hisse Fiyati: 2,97
+Degisim: -0,31
+Hacim: 19.675.556
+
+Hisse Adi: ALARK
+Hisse Fiyati: 80,40
+Degisim: -6,00
+Hacim: 1.235.507.033
+
+Hisse Adi: ALBRK
+Hisse Fiyati: 5,86
+Degisim: -0,44
+Hacim: 249.708.266
+
+Hisse Adi: ALCAR
+Hisse Fiyati: 1.010,00
+Degisim: -65,00
+Hacim: 56.178.369
+
+Hisse Adi: ALCTL
+Hisse Fiyati: 93,25
+Degisim: -10,35
+Hacim: 84.514.900
+
+Hisse Adi: ALFAS
+Hisse Fiyati: 46,58
+Degisim: -3,72
+Hacim: 136.298.342
+
+Hisse Adi: ALGYO
+Hisse Fiyati: 17,43
+Degisim: -1,08
+Hacim: 28.983.284
+
+Hisse Adi: ALKA
+Hisse Fiyati: 6,56
+Degisim: -0,46
+Hacim: 19.636.690
+
+Hisse Adi: ALKIM
+Hisse Fiyati: 14,52
+Degisim: -1,18
+Hacim: 31.287.016
+
+Hisse Adi: ALKLC
+Hisse Fiyati: 38,60
+Degisim: -4,28
+Hacim: 270.410.556
+
+Hisse Adi: ALMAD
+Hisse Fiyati: 6,80
+Degisim: -0,22
+Hacim: 26.691.562
+
+Hisse Adi: ALTINS1
+Hisse Fiyati: 41,36
+Degisim: 1,12
+Hacim: 3.879.770.971
+
+Hisse Adi: ALTNY
+Hisse Fiyati: 93,50
+Degisim: -2,75
+Hacim: 1.841.529.982
+
+Hisse Adi: ALVES
+Hisse Fiyati: 27,00
+Degisim: -2,58
+Hacim: 55.590.733
+
+Hisse Adi: ANELE
+Hisse Fiyati: 14,88
+Degisim: -0,19
+Hacim: 20.982.788
+
+Hisse Adi: ANGEN
+Hisse Fiyati: 10,77
+Degisim: -1,04
+Hacim: 36.558.795
+
+Hisse Adi: ANHYT
+Hisse Fiyati: 90,70
+Degisim: -9,70
+Hacim: 233.478.739
+
+Hisse Adi: ANSGR
+Hisse Fiyati: 97,75
+Degisim: -6,85
+Hacim: 388.410.920
+
+Hisse Adi: ARASE
+Hisse Fiyati: 38,50
+Degisim: -3,90
+Hacim: 61.933.124
+
+Hisse Adi: ARCLK
+Hisse Fiyati: 137,70
+Degisim: -10,50
+Hacim: 579.689.992
+
+Hisse Adi: ARDYZ
+Hisse Fiyati: 24,94
+Degisim: -2,10
+Hacim: 85.155.696
+
+Hisse Adi: ARENA
+Hisse Fiyati: 35,82
+Degisim: -2,52
+Hacim: 96.486.433
+
+Hisse Adi: ARMGD
+Hisse Fiyati: 29,96
+Degisim: -1,02
+Hacim: 60.613.119
+
+Hisse Adi: ARSAN
+Hisse Fiyati: 18,76
+Degisim: -0,79
+Hacim: 26.868.306
+
+Hisse Adi: ARTMS
+Hisse Fiyati: 25,88
+Degisim: -2,86
+Hacim: 48.602.977
+
+Hisse Adi: ARZUM
+Hisse Fiyati: 3,88
+Degisim: -0,12
+Hacim: 43.195.222
+
+Hisse Adi: ASELS
+Hisse Fiyati: 110,50
+Degisim: -7,00
+Hacim: 7.806.008.439
+
+Hisse Adi: ASGYO
+Hisse Fiyati: 10,05
+Degisim: -0,55
+Hacim: 15.948.112
+
+Hisse Adi: ASTOR
+Hisse Fiyati: 94,70
+Degisim: -10,50
+Hacim: 1.608.241.333
+
+Hisse Adi: ASUZU
+Hisse Fiyati: 56,80
+Degisim: -1,55
+Hacim: 37.892.428
+
+Hisse Adi: ATAGY
+Hisse Fiyati: 9,80
+Degisim: -0,52
+Hacim: 3.528.931
+
+Hisse Adi: ATAKP
+Hisse Fiyati: 35,90
+Degisim: -1,30
+Hacim: 11.953.918
+
+Hisse Adi: ATATP
+Hisse Fiyati: 81,40
+Degisim: -4,80
+Hacim: 38.204.351
+
+Hisse Adi: ATEKS
+Hisse Fiyati: 111,30
+Degisim: -12,30
+Hacim: 455.106
+
+Hisse Adi: ATLAS
+Hisse Fiyati: 4,99
+Degisim: -0,01
+Hacim: 4.010.450
+
+Hisse Adi: ATSYH
+Hisse Fiyati: 44,00
+Degisim: -1,00
+Hacim: 1.569.537
+
+Hisse Adi: AVGYO
+Hisse Fiyati: 8,85
+Degisim: 0,80
+Hacim: 30.278.189
+
+Hisse Adi: AVHOL
+Hisse Fiyati: 30,54
+Degisim: -2,94
+Hacim: 25.814.881
+
+Hisse Adi: AVOD
+Hisse Fiyati: 2,31
+Degisim: -0,15
+Hacim: 11.055.901
+
+Hisse Adi: AVPGY
+Hisse Fiyati: 52,65
+Degisim: -2,45
+Hacim: 162.438.023
+
+Hisse Adi: AVTUR
+Hisse Fiyati: 9,77
+Degisim: -0,72
+Hacim: 3.263.282
+
+Hisse Adi: AYCES
+Hisse Fiyati: 418,00
+Degisim: -24,00
+Hacim: 23.122.098
+
+Hisse Adi: AYDEM
+Hisse Fiyati: 18,20
+Degisim: -0,36
+Hacim: 37.941.675
+
+Hisse Adi: AYEN
+Hisse Fiyati: 23,70
+Degisim: -1,84
+Hacim: 16.693.436
+
+Hisse Adi: AYES
+Hisse Fiyati: 8,10
+Degisim: -0,40
+Hacim: 1.744.147
+
+Hisse Adi: AYGAZ
+Hisse Fiyati: 152,00
+Degisim: -10,40
+Hacim: 60.337.689
+
+Hisse Adi: AZTEK
+Hisse Fiyati: 40,00
+Degisim: 1,10
+Hacim: 216.408.019
+
+Hisse Adi: BAGFS
+Hisse Fiyati: 18,00
+Degisim: -1,30
+Hacim: 28.825.918
+
+Hisse Adi: BAHKM
+Hisse Fiyati: 40,90
+Degisim: -1,58
+Hacim: 41.813.747
+
+Hisse Adi: BAKAB
+Hisse Fiyati: 27,30
+Degisim: -2,26
+Hacim: 8.103.088
+
+Hisse Adi: BALAT
+Hisse Fiyati: 48,64
+Degisim: -5,36
+Hacim: 3.184.653
+
+Hisse Adi: BALSU
+Hisse Fiyati: 13,80
+Degisim: -1,53
+Hacim: 106.493.842
+
+Hisse Adi: BANVT
+Hisse Fiyati: 235,00
+Degisim: -25,00
+Hacim: 129.470.651
+
+Hisse Adi: BARMA
+Hisse Fiyati: 15,80
+Degisim: -1,05
+Hacim: 30.707.757
+
+Hisse Adi: BASCM
+Hisse Fiyati: 9,90
+Degisim: -0,75
+Hacim: 1.667.653
+
+Hisse Adi: BASGZ
+Hisse Fiyati: 26,56
+Degisim: -0,96
+Hacim: 29.774.029
+
+Hisse Adi: BAYRK
+Hisse Fiyati: 16,98
+Degisim: -0,15
+Hacim: 167.229.563
+
+Hisse Adi: BEGYO
+Hisse Fiyati: 13,10
+Degisim: -0,28
+Hacim: 450.572.597
+
+Hisse Adi: BERA
+Hisse Fiyati: 14,69
+Degisim: -1,19
+Hacim: 136.903.644
+
+Hisse Adi: BEYAZ
+Hisse Fiyati: 19,99
+Degisim: -1,39
+Hacim: 20.509.819
+
+Hisse Adi: BFREN
+Hisse Fiyati: 640,50
+Degisim: -59,50
+Hacim: 84.030.721
+
+Hisse Adi: BIENY
+Hisse Fiyati: 30,42
+Degisim: -1,06
+Hacim: 44.566.573
+
+Hisse Adi: BIGCH
+Hisse Fiyati: 24,44
+Degisim: -2,70
+Hacim: 19.940.016
+
+Hisse Adi: BIGEN
+Hisse Fiyati: 9,79
+Degisim: -1,01
+Hacim: 68.798.678
+
+Hisse Adi: BIMAS
+Hisse Fiyati: 409,50
+Degisim: -45,25
+Hacim: 7.884.567.242
+
+Hisse Adi: BINBN
+Hisse Fiyati: 159,40
+Degisim: -2,80
+Hacim: 321.704.978
+
+Hisse Adi: BINHO
+Hisse Fiyati: 203,40
+Degisim: -17,60
+Hacim: 83.472.978
+
+Hisse Adi: BIOEN
+Hisse Fiyati: 14,84
+Degisim: -1,63
+Hacim: 36.175.812
+
+Hisse Adi: BIZIM
+Hisse Fiyati: 23,28
+Degisim: -2,18
+Hacim: 8.657.918
+
+Hisse Adi: BJKAS
+Hisse Fiyati: 3,27
+Degisim: -0,22
+Hacim: 60.254.221
+
+Hisse Adi: BLCYT
+Hisse Fiyati: 13,99
+Degisim: -0,98
+Hacim: 13.252.909
+
+Hisse Adi: BMSCH
+Hisse Fiyati: 25,72
+Degisim: -2,12
+Hacim: 3.143.624
+
+Hisse Adi: BMSTL
+Hisse Fiyati: 41,80
+Degisim: -0,64
+Hacim: 176.953.582
+
+Hisse Adi: BNTAS
+Hisse Fiyati: 5,14
+Degisim: -0,48
+Hacim: 30.286.934
+
+Hisse Adi: BOBET
+Hisse Fiyati: 17,91
+Degisim: -1,84
+Hacim: 97.430.191
+
+Hisse Adi: BORLS
+Hisse Fiyati: 80,20
+Degisim: -7,50
+Hacim: 54.980.659
+
+Hisse Adi: BORSK
+Hisse Fiyati: 19,10
+Degisim: -1,70
+Hacim: 36.969.955
+
+Hisse Adi: BOSSA
+Hisse Fiyati: 5,89
+Degisim: -0,55
+Hacim: 21.977.480
+
+Hisse Adi: BRISA
+Hisse Fiyati: 84,85
+Degisim: -4,70
+Hacim: 54.885.527
+
+Hisse Adi: BRKO
+Hisse Fiyati: 9,99
+Degisim: -1,11
+Hacim: 8.891.577
+
+Hisse Adi: BRKSN
+Hisse Fiyati: 21,26
+Degisim: -1,90
+Hacim: 12.498.499
+
+Hisse Adi: BRKVY
+Hisse Fiyati: 51,25
+Degisim: -5,65
+Hacim: 61.968.721
+
+Hisse Adi: BRLSM
+Hisse Fiyati: 14,12
+Degisim: -0,65
+Hacim: 51.557.437
+
+Hisse Adi: BRMEN
+Hisse Fiyati: 4,74
+Degisim: -0,26
+Hacim: 529.343
+
+Hisse Adi: BRSAN
+Hisse Fiyati: 337,75
+Degisim: -35,75
+Hacim: 270.177.745
+
+Hisse Adi: BRYAT
+Hisse Fiyati: 1.825,00
+Degisim: -117,00
+Hacim: 151.536.687
+
+Hisse Adi: BSOKE
+Hisse Fiyati: 11,95
+Degisim: -0,45
+Hacim: 312.356.757
+
+Hisse Adi: BTCIM
+Hisse Fiyati: 3,73
+Degisim: -0,35
+Hacim: 142.701.646
+
+Hisse Adi: BUCIM
+Hisse Fiyati: 6,92
+Degisim: -0,49
+Hacim: 40.707.012
+
+Hisse Adi: BULGS
+Hisse Fiyati: 18,77
+Degisim: -0,98
+Hacim: 489.846.206
+
+Hisse Adi: BURCE
+Hisse Fiyati: 14,31
+Degisim: -1,29
+Hacim: 25.291.551
+
+Hisse Adi: BURVA
+Hisse Fiyati: 100,00
+Degisim: -5,60
+Hacim: 8.172.345
+
+Hisse Adi: BVSAN
+Hisse Fiyati: 94,10
+Degisim: -8,10
+Hacim: 84.457.829
+
+Hisse Adi: BYDNR
+Hisse Fiyati: 19,91
+Degisim: -2,21
+Hacim: 16.446.645
+
+Hisse Adi: CANTE
+Hisse Fiyati: 1,37
+Degisim: -0,07
+Hacim: 239.384.193
+
+Hisse Adi: CASA
+Hisse Fiyati: 66,70
+Degisim: -3,80
+Hacim: 1.391.332
+
+Hisse Adi: CATES
+Hisse Fiyati: 26,90
+Degisim: -2,16
+Hacim: 22.632.503
+
+Hisse Adi: CCOLA
+Hisse Fiyati: 50,40
+Degisim: -5,60
+Hacim: 772.756.447
+
+Hisse Adi: CELHA
+Hisse Fiyati: 20,28
+Degisim: -0,58
+Hacim: 46.418.925
+
+Hisse Adi: CEMAS
+Hisse Fiyati: 2,63
+Degisim: -0,13
+Hacim: 45.236.325
+
+Hisse Adi: CEMTS
+Hisse Fiyati: 8,81
+Degisim: -0,63
+Hacim: 29.756.403
+
+Hisse Adi: CEMZY
+Hisse Fiyati: 12,94
+Degisim: -0,99
+Hacim: 198.623.864
+
+Hisse Adi: CEOEM
+Hisse Fiyati: 35,08
+Degisim: -3,00
+Hacim: 113.504.961
+
+Hisse Adi: CGCAM
+Hisse Fiyati: 24,80
+Degisim: -2,22
+Hacim: 125.959.609
+
+Hisse Adi: CIMSA
+Hisse Fiyati: 47,16
+Degisim: -5,24
+Hacim: 765.088.952
+
+Hisse Adi: CLEBI
+Hisse Fiyati: 2.557,50
+Degisim: -42,50
+Hacim: 356.379.470
+
+Hisse Adi: CMBTN
+Hisse Fiyati: 2.210,00
+Degisim: -126,00
+Hacim: 78.693.303
+
+Hisse Adi: CMENT
+Hisse Fiyati: 360,00
+Degisim: -18,75
+Hacim: 3.924.317
+
+Hisse Adi: CONSE
+Hisse Fiyati: 2,44
+Degisim: -0,21
+Hacim: 33.689.539
+
+Hisse Adi: COSMO
+Hisse Fiyati: 109,80
+Degisim: -12,20
+Hacim: 7.684.700
+
+Hisse Adi: CRDFA
+Hisse Fiyati: 6,42
+Degisim: -0,58
+Hacim: 9.659.091
+
+Hisse Adi: CRFSA
+Hisse Fiyati: 79,00
+Degisim: -7,50
+Hacim: 25.700.228
+
+Hisse Adi: CUSAN
+Hisse Fiyati: 19,39
+Degisim: -1,61
+Hacim: 7.379.384
+
+Hisse Adi: CVKMD
+Hisse Fiyati: 8,86
+Degisim: -0,83
+Hacim: 215.037.570
+
+Hisse Adi: CWENE
+Hisse Fiyati: 15,58
+Degisim: -1,33
+Hacim: 88.625.593
+
+Hisse Adi: DAGHL
+Hisse Fiyati: 51,60
+Degisim: -5,70
+Hacim: 4.091.147
+
+Hisse Adi: DAGI
+Hisse Fiyati: 5,58
+Degisim: -0,62
+Hacim: 31.125.129
+
+Hisse Adi: DAPGM
+Hisse Fiyati: 7,03
+Degisim: -0,57
+Hacim: 109.671.964
+
+Hisse Adi: DARDL
+Hisse Fiyati: 4,55
+Degisim: -0,37
+Hacim: 29.368.203
+
+Hisse Adi: DCTTR
+Hisse Fiyati: 33,00
+Degisim: -2,76
+Hacim: 232.805.953
+
+Hisse Adi: DENGE
+Hisse Fiyati: 2,55
+Degisim: -0,22
+Hacim: 21.691.456
+
+Hisse Adi: DERHL
+Hisse Fiyati: 38,16
+Degisim: -4,24
+Hacim: 138.649.141
+
+Hisse Adi: DERIM
+Hisse Fiyati: 28,82
+Degisim: -1,08
+Hacim: 8.230.392
+
+Hisse Adi: DESA
+Hisse Fiyati: 7,98
+Degisim: -0,70
+Hacim: 13.079.139
+
+Hisse Adi: DESPC
+Hisse Fiyati: 41,76
+Degisim: -2,80
+Hacim: 20.801.209
+
+Hisse Adi: DEVA
+Hisse Fiyati: 55,20
+Degisim: -3,85
+Hacim: 43.162.389
+
+Hisse Adi: DGATE
+Hisse Fiyati: 45,12
+Degisim: -4,40
+Hacim: 9.689.393
+
+Hisse Adi: DGGYO
+Hisse Fiyati: 34,58
+Degisim: -2,00
+Hacim: 3.939.500
+
+Hisse Adi: DGNMO
+Hisse Fiyati: 6,46
+Degisim: -0,44
+Hacim: 25.138.286
+
+Hisse Adi: DIRIT
+Hisse Fiyati: 20,46
+Degisim: -2,26
+Hacim: 4.006.528
+
+Hisse Adi: DITAS
+Hisse Fiyati: 11,53
+Degisim: -1,14
+Hacim: 9.755.619
+
+Hisse Adi: DMRGD
+Hisse Fiyati: 12,70
+Degisim: 0,28
+Hacim: 124.522.412
+
+Hisse Adi: DMSAS
+Hisse Fiyati: 6,98
+Degisim: -0,41
+Hacim: 18.903.443
+
+Hisse Adi: DNISI
+Hisse Fiyati: 23,44
+Degisim: -2,36
+Hacim: 45.892.474
+
+Hisse Adi: DOAS
+Hisse Fiyati: 222,40
+Degisim: -14,80
+Hacim: 1.188.218.614
+
+Hisse Adi: DOBUR
+Hisse Fiyati: 191,00
+Degisim: -8,00
+Hacim: 39.326.940
+
+Hisse Adi: DOCO
+Hisse Fiyati: 7.330,00
+Degisim: -165,00
+Hacim: 74.451.378
+
+Hisse Adi: DOFER
+Hisse Fiyati: 23,40
+Degisim: -2,20
+Hacim: 16.627.267
+
+Hisse Adi: DOGUB
+Hisse Fiyati: 15,19
+Degisim: -1,43
+Hacim: 2.593.771
+
+Hisse Adi: DOHOL
+Hisse Fiyati: 13,55
+Degisim: -1,35
+Hacim: 519.138.448
+
+Hisse Adi: DOKTA
+Hisse Fiyati: 18,94
+Degisim: -1,28
+Hacim: 15.534.597
+
+Hisse Adi: DSTKF
+Hisse Fiyati: 119,00
+Degisim: -13,20
+Hacim: 285.586.977
+
+Hisse Adi: DURDO
+Hisse Fiyati: 3,20
+Degisim: -0,10
+Hacim: 28.386.095
+
+Hisse Adi: DURKN
+Hisse Fiyati: 15,03
+Degisim: -1,40
+Hacim: 66.915.177
+
+Hisse Adi: DYOBY
+Hisse Fiyati: 25,04
+Degisim: -0,94
+Hacim: 45.252.014
+
+Hisse Adi: DZGYO
+Hisse Fiyati: 8,25
+Degisim: -0,35
+Hacim: 288.076.457
+
+Hisse Adi: EBEBK
+Hisse Fiyati: 48,88
+Degisim: -2,32
+Hacim: 48.565.877
+
+Hisse Adi: ECILC
+Hisse Fiyati: 39,50
+Degisim: -3,58
+Hacim: 104.538.472
+
+Hisse Adi: ECZYT
+Hisse Fiyati: 170,00
+Degisim: -15,20
+Hacim: 46.247.549
+
+Hisse Adi: EDATA
+Hisse Fiyati: 3,52
+Degisim: -0,29
+Hacim: 17.447.392
+
+Hisse Adi: EDIP
+Hisse Fiyati: 17,94
+Degisim: -1,65
+Hacim: 32.178.880
+
+Hisse Adi: EFORC
+Hisse Fiyati: 74,70
+Degisim: -6,15
+Hacim: 201.476.389
+
+Hisse Adi: EGEEN
+Hisse Fiyati: 9.090,00
+Degisim: -510,00
+Hacim: 289.633.808
+
+Hisse Adi: EGEGY
+Hisse Fiyati: 15,06
+Degisim: -0,16
+Hacim: 60.418.818
+
+Hisse Adi: EGEPO
+Hisse Fiyati: 5,35
+Degisim: -0,59
+Hacim: 133.189.295
+
+Hisse Adi: EGGUB
+Hisse Fiyati: 57,90
+Degisim: -4,65
+Hacim: 25.774.506
+
+Hisse Adi: EGPRO
+Hisse Fiyati: 22,96
+Degisim: -1,42
+Hacim: 28.167.689
+
+Hisse Adi: EGSER
+Hisse Fiyati: 3,03
+Degisim: -0,17
+Hacim: 8.000.186
+
+Hisse Adi: EKGYO
+Hisse Fiyati: 12,15
+Degisim: -1,35
+Hacim: 3.439.910.304
+
+Hisse Adi: EKIZ
+Hisse Fiyati: 50,45
+Degisim: -1,80
+Hacim: 1.696.279
+
+Hisse Adi: EKOS
+Hisse Fiyati: 17,88
+Degisim: -1,68
+Hacim: 36.946.971
+
+Hisse Adi: EKSUN
+Hisse Fiyati: 4,97
+Degisim: -0,52
+Hacim: 35.791.977
+
+Hisse Adi: ELITE
+Hisse Fiyati: 34,96
+Degisim: -3,88
+Hacim: 134.967.851
+
+Hisse Adi: EMKEL
+Hisse Fiyati: 18,20
+Degisim: -1,98
+Hacim: 129.248.670
+
+Hisse Adi: EMNIS
+Hisse Fiyati: 310,00
+Degisim: -11,50
+Hacim: 4.000.782
+
+Hisse Adi: ENDAE
+Hisse Fiyati: 11,28
+Degisim: -1,24
+Hacim: 51.747.228
+
+Hisse Adi: ENERY
+Hisse Fiyati: 3,14
+Degisim: -0,22
+Hacim: 117.379.267
+
+Hisse Adi: ENJSA
+Hisse Fiyati: 55,05
+Degisim: -3,60
+Hacim: 585.546.162
+
+Hisse Adi: ENKAI
+Hisse Fiyati: 59,45
+Degisim: -1,40
+Hacim: 4.871.174.101
+
+Hisse Adi: ENSRI
+Hisse Fiyati: 15,98
+Degisim: -0,65
+Hacim: 12.349.803
+
+Hisse Adi: ENTRA
+Hisse Fiyati: 9,98
+Degisim: -0,15
+Hacim: 299.023.073
+
+Hisse Adi: EPLAS
+Hisse Fiyati: 4,55
+Degisim: -0,33
+Hacim: 9.432.406
+
+Hisse Adi: ERBOS
+Hisse Fiyati: 155,00
+Degisim: -6,00
+Hacim: 21.004.535
+
+Hisse Adi: ERCB
+Hisse Fiyati: 80,95
+Degisim: -5,25
+Hacim: 29.663.343
+
+Hisse Adi: EREGL
+Hisse Fiyati: 21,10
+Degisim: -2,26
+Hacim: 5.660.547.535
+
+Hisse Adi: ERSU
+Hisse Fiyati: 13,10
+Degisim: -1,30
+Hacim: 4.870.971
+
+Hisse Adi: ESCAR
+Hisse Fiyati: 49,32
+Degisim: -5,48
+Hacim: 35.706.032
+
+Hisse Adi: ESCOM
+Hisse Fiyati: 2,34
+Degisim: -0,26
+Hacim: 35.739.648
+
+Hisse Adi: ESEN
+Hisse Fiyati: 32,56
+Degisim: -1,86
+Hacim: 82.390.136
+
+Hisse Adi: ETILR
+Hisse Fiyati: 8,35
+Degisim: -0,92
+Hacim: 29.236.670
+
+Hisse Adi: ETYAT
+Hisse Fiyati: 9,65
+Degisim: -0,75
+Hacim: 2.039.526
+
+Hisse Adi: EUHOL
+Hisse Fiyati: 14,15
+Degisim: 0,32
+Hacim: 28.967.971
+
+Hisse Adi: EUKYO
+Hisse Fiyati: 10,99
+Degisim: -0,43
+Hacim: 3.741.206
+
+Hisse Adi: EUPWR
+Hisse Fiyati: 30,60
+Degisim: -3,06
+Hacim: 184.406.430
+
+Hisse Adi: EUREN
+Hisse Fiyati: 4,22
+Degisim: -0,39
+Hacim: 117.254.586
+
+Hisse Adi: EUYO
+Hisse Fiyati: 11,15
+Degisim: -1,20
+Hacim: 9.164.983
+
+Hisse Adi: EYGYO
+Hisse Fiyati: 1,98
+Degisim: -0,15
+Hacim: 22.664.476
+
+Hisse Adi: FADE
+Hisse Fiyati: 12,75
+Degisim: -0,90
+Hacim: 7.508.718
+
+Hisse Adi: FENER
+Hisse Fiyati: 43,22
+Degisim: -2,16
+Hacim: 276.929.159
+
+Hisse Adi: FLAP
+Hisse Fiyati: 6,99
+Degisim: -0,57
+Hacim: 20.358.319
+
+Hisse Adi: FMIZP
+Hisse Fiyati: 298,25
+Degisim: -26,75
+Hacim: 49.742.180
+
+Hisse Adi: FONET
+Hisse Fiyati: 12,41
+Degisim: -1,18
+Hacim: 51.101.643
+
+Hisse Adi: FORMT
+Hisse Fiyati: 5,10
+Degisim: -0,45
+Hacim: 83.351.966
+
+Hisse Adi: FORTE
+Hisse Fiyati: 68,25
+Degisim: -1,75
+Hacim: 78.392.115
+
+Hisse Adi: FRIGO
+Hisse Fiyati: 7,40
+Degisim: -0,62
+Hacim: 25.820.342
+
+Hisse Adi: FROTO
+Hisse Fiyati: 995,50
+Degisim: -57,50
+Hacim: 2.224.157.287
+
+Hisse Adi: FZLGY
+Hisse Fiyati: 29,60
+Degisim: -1,70
+Hacim: 82.819.500
+
+Hisse Adi: GARAN
+Hisse Fiyati: 107,20
+Degisim: -10,00
+Hacim: 5.526.541.202
+
+Hisse Adi: GARFA
+Hisse Fiyati: 15,92
+Degisim: -1,53
+Hacim: 18.767.716
+
+Hisse Adi: GEDIK
+Hisse Fiyati: 7,11
+Degisim: -0,61
+Hacim: 6.073.438
+
+Hisse Adi: GEDZA
+Hisse Fiyati: 22,30
+Degisim: -2,22
+Hacim: 25.760.178
+
+Hisse Adi: GENIL
+Hisse Fiyati: 121,10
+Degisim: -13,40
+Hacim: 72.642.768
+
+Hisse Adi: GENTS
+Hisse Fiyati: 14,34
+Degisim: -0,22
+Hacim: 57.118.903
+
+Hisse Adi: GEREL
+Hisse Fiyati: 7,90
+Degisim: -0,51
+Hacim: 39.265.910
+
+Hisse Adi: GESAN
+Hisse Fiyati: 45,60
+Degisim: -5,05
+Hacim: 432.249.842
+
+Hisse Adi: GIPTA
+Hisse Fiyati: 52,35
+Degisim: 0,35
+Hacim: 59.841.105
+
+Hisse Adi: GLBMD
+Hisse Fiyati: 9,25
+Degisim: -0,50
+Hacim: 2.975.099
+
+Hisse Adi: GLCVY
+Hisse Fiyati: 44,00
+Degisim: -3,94
+Hacim: 32.641.174
+
+Hisse Adi: GLRMK
+Hisse Fiyati: 159,90
+Degisim: -0,20
+Hacim: 954.274.781
+
+Hisse Adi: GLRYH
+Hisse Fiyati: 2,61
+Degisim: -0,21
+Hacim: 29.797.761
+
+Hisse Adi: GLYHO
+Hisse Fiyati: 7,07
+Degisim: -0,77
+Hacim: 164.704.840
+
+Hisse Adi: GMTAS
+Hisse Fiyati: 11,39
+Degisim: -1,02
+Hacim: 20.191.867
+
+Hisse Adi: GOKNR
+Hisse Fiyati: 20,28
+Degisim: -1,96
+Hacim: 113.422.760
+
+Hisse Adi: GOLTS
+Hisse Fiyati: 396,50
+Degisim: -24,50
+Hacim: 108.703.029
+
+Hisse Adi: GOODY
+Hisse Fiyati: 14,24
+Degisim: -1,17
+Hacim: 53.521.427
+
+Hisse Adi: GOZDE
+Hisse Fiyati: 18,13
+Degisim: -2,01
+Hacim: 19.434.091
+
+Hisse Adi: GRNYO
+Hisse Fiyati: 7,95
+Degisim: -0,42
+Hacim: 4.030.861
+
+Hisse Adi: GRSEL
+Hisse Fiyati: 176,50
+Degisim: -17,10
+Hacim: 335.861.698
+
+Hisse Adi: GRTHO
+Hisse Fiyati: 281,00
+Degisim: -31,00
+Hacim: 246.063.049
+
+Hisse Adi: GSDDE
+Hisse Fiyati: 7,50
+Degisim: -0,52
+Hacim: 20.649.579
+
+Hisse Adi: GSDHO
+Hisse Fiyati: 3,79
+Degisim: -0,12
+Hacim: 43.473.138
+
+Hisse Adi: GSRAY
+Hisse Fiyati: 1,79
+Degisim: -0,09
+Hacim: 191.054.710
+
+Hisse Adi: GUBRF
+Hisse Fiyati: 242,60
+Degisim: -26,90
+Hacim: 1.278.764.778
+
+Hisse Adi: GUNDG
+Hisse Fiyati: 43,00
+Degisim: -2,80
+Hacim: 29.853.091
+
+Hisse Adi: GWIND
+Hisse Fiyati: 24,20
+Degisim: -1,30
+Hacim: 69.351.344
+
+Hisse Adi: GZNMI
+Hisse Fiyati: 87,90
+Degisim: -2,60
+Hacim: 50.347.061
+
+Hisse Adi: HALKB
+Hisse Fiyati: 18,33
+Degisim: -2,03
+Hacim: 1.114.901.143
+
+Hisse Adi: HATEK
+Hisse Fiyati: 26,58
+Degisim: -0,28
+Hacim: 14.070.016
+
+Hisse Adi: HATSN
+Hisse Fiyati: 37,16
+Degisim: -1,90
+Hacim: 44.478.035
+
+Hisse Adi: HDFGS
+Hisse Fiyati: 1,61
+Degisim: -0,08
+Hacim: 14.690.711
+
+Hisse Adi: HEDEF
+Hisse Fiyati: 5,05
+Degisim: -0,26
+Hacim: 38.507.838
+
+Hisse Adi: HEKTS
+Hisse Fiyati: 3,06
+Degisim: -0,28
+Hacim: 405.170.956
+
+Hisse Adi: HKTM
+Hisse Fiyati: 11,02
+Degisim: -1,11
+Hacim: 40.934.109
+
+Hisse Adi: HLGYO
+Hisse Fiyati: 2,40
+Degisim: -0,22
+Hacim: 109.560.444
+
+Hisse Adi: HOROZ
+Hisse Fiyati: 45,72
+Degisim: -5,08
+Hacim: 125.683.862
+
+Hisse Adi: HRKET
+Hisse Fiyati: 52,55
+Degisim: -5,45
+Hacim: 121.035.046
+
+Hisse Adi: HTTBT
+Hisse Fiyati: 42,52
+Degisim: -0,48
+Hacim: 171.308.600
+
+Hisse Adi: HUBVC
+Hisse Fiyati: 1,64
+Degisim: -0,15
+Hacim: 4.585.271
+
+Hisse Adi: HUNER
+Hisse Fiyati: 3,54
+Degisim: -0,26
+Hacim: 98.022.989
+
+Hisse Adi: HURGZ
+Hisse Fiyati: 4,05
+Degisim: -0,45
+Hacim: 14.578.446
+
+Hisse Adi: ICBCT
+Hisse Fiyati: 12,14
+Degisim: -1,05
+Hacim: 23.460.445
+
+Hisse Adi: ICUGS
+Hisse Fiyati: 11,20
+Degisim: -1,09
+Hacim: 143.731.695
+
+Hisse Adi: IDGYO
+Hisse Fiyati: 2,11
+Degisim: -0,21
+Hacim: 5.690.965
+
+Hisse Adi: IEYHO
+Hisse Fiyati: 8,03
+Degisim: -0,13
+Hacim: 131.966.974
+
+Hisse Adi: IHAAS
+Hisse Fiyati: 19,07
+Degisim: -2,11
+Hacim: 83.670.850
+
+Hisse Adi: IHEVA
+Hisse Fiyati: 2,03
+Degisim: -0,13
+Hacim: 4.297.146
+
+Hisse Adi: IHGZT
+Hisse Fiyati: 1,24
+Degisim: -0,11
+Hacim: 35.918.007
+
+Hisse Adi: IHLAS
+Hisse Fiyati: 2,18
+Degisim: -0,17
+Hacim: 175.924.142
+
+Hisse Adi: IHLGM
+Hisse Fiyati: 1,49
+Degisim: -0,10
+Hacim: 43.190.587
+
+Hisse Adi: IHYAY
+Hisse Fiyati: 2,01
+Degisim: -0,14
+Hacim: 32.974.205
+
+Hisse Adi: IMASM
+Hisse Fiyati: 2,25
+Degisim: -0,15
+Hacim: 50.308.978
+
+Hisse Adi: INDES
+Hisse Fiyati: 6,71
+Degisim: -0,36
+Hacim: 63.236.313
+
+Hisse Adi: INFO
+Hisse Fiyati: 1,92
+Degisim: -0,21
+Hacim: 55.959.798
+
+Hisse Adi: INGRM
+Hisse Fiyati: 389,00
+Degisim: -17,00
+Hacim: 22.051.581
+
+Hisse Adi: INTEK
+Hisse Fiyati: 508,00
+Degisim: -56,00
+Hacim: 10.765.352
+
+Hisse Adi: INTEM
+Hisse Fiyati: 187,00
+Degisim: -13,80
+Hacim: 13.692.316
+
+Hisse Adi: INVEO
+Hisse Fiyati: 5,95
+Degisim: -0,53
+Hacim: 14.536.404
+
+Hisse Adi: INVES
+Hisse Fiyati: 197,10
+Degisim: -21,90
+Hacim: 43.024.511
+
+Hisse Adi: IPEKE
+Hisse Fiyati: 54,30
+Degisim: -2,25
+Hacim: 279.113.246
+
+Hisse Adi: ISATR
+Hisse Fiyati: 0,00
+Degisim: -5.500.000,00
+Hacim: 0
+
+Hisse Adi: ISBIR
+Hisse Fiyati: 72,00
+Degisim: -4,05
+Hacim: 3.131.136
+
+Hisse Adi: ISBTR
+Hisse Fiyati: 500.000,00
+Degisim: 0,00
+Hacim: 4.000.000
+
+Hisse Adi: ISCTR
+Hisse Fiyati: 12,07
+Degisim: -1,34
+Hacim: 7.668.714.254
+
+Hisse Adi: ISDMR
+Hisse Fiyati: 35,00
+Degisim: -3,04
+Hacim: 156.838.267
+
+Hisse Adi: ISFIN
+Hisse Fiyati: 13,16
+Degisim: -0,64
+Hacim: 58.637.319
+
+Hisse Adi: ISGSY
+Hisse Fiyati: 34,32
+Degisim: -3,20
+Hacim: 48.530.705
+
+Hisse Adi: ISGYO
+Hisse Fiyati: 16,40
+Degisim: -1,20
+Hacim: 90.287.824
+
+Hisse Adi: ISKPL
+Hisse Fiyati: 21,34
+Degisim: -0,48
+Hacim: 25.743.194
+
+Hisse Adi: ISKUR
+Hisse Fiyati: 0,00
+Degisim: -5.399.997,50
+Hacim: 0
+
+Hisse Adi: ISMEN
+Hisse Fiyati: 42,46
+Degisim: -4,70
+Hacim: 589.832.482
+
+Hisse Adi: ISSEN
+Hisse Fiyati: 7,37
+Degisim: -0,28
+Hacim: 11.114.116
+
+Hisse Adi: ISYAT
+Hisse Fiyati: 7,43
+Degisim: -0,50
+Hacim: 7.387.978
+
+Hisse Adi: IZENR
+Hisse Fiyati: 4,77
+Degisim: -0,53
+Hacim: 111.007.617
+
+Hisse Adi: IZFAS
+Hisse Fiyati: 66,30
+Degisim: 0,65
+Hacim: 67.500.212
+
+Hisse Adi: IZINV
+Hisse Fiyati: 36,00
+Degisim: -3,98
+Hacim: 5.460.607
+
+Hisse Adi: IZMDC
+Hisse Fiyati: 4,64
+Degisim: -0,36
+Hacim: 21.886.405
+
+Hisse Adi: JANTS
+Hisse Fiyati: 22,02
+Degisim: -1,12
+Hacim: 79.406.177
+
+Hisse Adi: KAPLM
+Hisse Fiyati: 172,20
+Degisim: -14,60
+Hacim: 29.270.241
+
+Hisse Adi: KAREL
+Hisse Fiyati: 8,49
+Degisim: -0,04
+Hacim: 40.196.609
+
+Hisse Adi: KARSN
+Hisse Fiyati: 10,20
+Degisim: -0,90
+Hacim: 158.013.541
+
+Hisse Adi: KARTN
+Hisse Fiyati: 81,40
+Degisim: -5,20
+Hacim: 39.251.897
+
+Hisse Adi: KARYE
+Hisse Fiyati: 24,56
+Degisim: -1,18
+Hacim: 28.754.565
+
+Hisse Adi: KATMR
+Hisse Fiyati: 2,16
+Degisim: -0,16
+Hacim: 178.762.938
+
+Hisse Adi: KAYSE
+Hisse Fiyati: 16,60
+Degisim: -0,77
+Hacim: 85.771.252
+
+Hisse Adi: KBORU
+Hisse Fiyati: 60,40
+Degisim: -5,35
+Hacim: 61.710.441
+
+Hisse Adi: KCAER
+Hisse Fiyati: 11,04
+Degisim: -0,98
+Hacim: 165.480.308
+
+Hisse Adi: KCHOL
+Hisse Fiyati: 153,60
+Degisim: -12,70
+Hacim: 7.294.785.045
+
+Hisse Adi: KENT
+Hisse Fiyati: 806,50
+Degisim: -84,50
+Hacim: 8.362.255
+
+Hisse Adi: KERVN
+Hisse Fiyati: 2,06
+Degisim: -0,02
+Hacim: 2.033.643
+
+Hisse Adi: KERVT
+Hisse Fiyati: 14,42
+Degisim: -0,81
+Hacim: 97.993.074
+
+Hisse Adi: KFEIN
+Hisse Fiyati: 104,00
+Degisim: -8,00
+Hacim: 71.500.138
+
+Hisse Adi: KGYO
+Hisse Fiyati: 2,84
+Degisim: -0,08
+Hacim: 27.392.398
+
+Hisse Adi: KIMMR
+Hisse Fiyati: 7,97
+Degisim: -0,41
+Hacim: 26.387.744
+
+Hisse Adi: KLGYO
+Hisse Fiyati: 4,31
+Degisim: -0,47
+Hacim: 71.094.627
+
+Hisse Adi: KLKIM
+Hisse Fiyati: 31,52
+Degisim: -2,60
+Hacim: 152.411.458
+
+Hisse Adi: KLMSN
+Hisse Fiyati: 21,74
+Degisim: -2,30
+Hacim: 16.277.078
+
+Hisse Adi: KLNMA
+Hisse Fiyati: 6,90
+Degisim: -0,44
+Hacim: 2.620.041
+
+Hisse Adi: KLRHO
+Hisse Fiyati: 23,56
+Degisim: -1,44
+Hacim: 24.172.014
+
+Hisse Adi: KLSER
+Hisse Fiyati: 28,70
+Degisim: -1,54
+Hacim: 60.472.851
+
+Hisse Adi: KLSYN
+Hisse Fiyati: 5,22
+Degisim: -0,58
+Hacim: 24.649.406
+
+Hisse Adi: KLYPV
+Hisse Fiyati: 61,70
+Degisim: -6,80
+Hacim: 168.836.043
+
+Hisse Adi: KMPUR
+Hisse Fiyati: 15,85
+Degisim: -1,48
+Hacim: 50.927.130
+
+Hisse Adi: KNFRT
+Hisse Fiyati: 10,27
+Degisim: -1,14
+Hacim: 30.746.908
+
+Hisse Adi: KOCMT
+Hisse Fiyati: 11,48
+Degisim: -1,02
+Hacim: 65.633.128
+
+Hisse Adi: KONKA
+Hisse Fiyati: 30,90
+Degisim: -2,32
+Hacim: 13.408.875
+
+Hisse Adi: KONTR
+Hisse Fiyati: 27,34
+Degisim: -2,98
+Hacim: 599.240.359
+
+Hisse Adi: KONYA
+Hisse Fiyati: 5.290,00
+Degisim: -432,50
+Hacim: 94.424.763
+
+Hisse Adi: KOPOL
+Hisse Fiyati: 4,69
+Degisim: -0,46
+Hacim: 67.518.148
+
+Hisse Adi: KORDS
+Hisse Fiyati: 54,40
+Degisim: -4,00
+Hacim: 50.008.567
+
+Hisse Adi: KOTON
+Hisse Fiyati: 14,62
+Degisim: -1,17
+Hacim: 43.617.506
+
+Hisse Adi: KOZAA
+Hisse Fiyati: 71,90
+Degisim: -3,55
+Hacim: 530.935.110
+
+Hisse Adi: KOZAL
+Hisse Fiyati: 23,52
+Degisim: -2,08
+Hacim: 2.269.633.141
+
+Hisse Adi: KRDMA
+Hisse Fiyati: 36,90
+Degisim: -4,08
+Hacim: 222.488.684
+
+Hisse Adi: KRDMB
+Hisse Fiyati: 24,10
+Degisim: -2,56
+Hacim: 30.925.182
+
+Hisse Adi: KRDMD
+Hisse Fiyati: 28,74
+Degisim: -3,18
+Hacim: 1.495.828.561
+
+Hisse Adi: KRGYO
+Hisse Fiyati: 10,70
+Degisim: -1,04
+Hacim: 104.663.339
+
+Hisse Adi: KRONT
+Hisse Fiyati: 15,96
+Degisim: -0,44
+Hacim: 19.151.081
+
+Hisse Adi: KRPLS
+Hisse Fiyati: 6,34
+Degisim: -0,38
+Hacim: 8.263.393
+
+Hisse Adi: KRSTL
+Hisse Fiyati: 5,66
+Degisim: -0,40
+Hacim: 37.417.478
+
+Hisse Adi: KRTEK
+Hisse Fiyati: 23,60
+Degisim: -1,60
+Hacim: 8.457.483
+
+Hisse Adi: KRVGD
+Hisse Fiyati: 2,11
+Degisim: -0,11
+Hacim: 29.978.928
+
+Hisse Adi: KSTUR
+Hisse Fiyati: 4.500,00
+Degisim: -500,00
+Hacim: 17.436.685
+
+Hisse Adi: KTLEV
+Hisse Fiyati: 58,85
+Degisim: -4,50
+Hacim: 420.887.040
+
+Hisse Adi: KTSKR
+Hisse Fiyati: 57,50
+Degisim: -3,80
+Hacim: 21.344.588
+
+Hisse Adi: KUTPO
+Hisse Fiyati: 74,75
+Degisim: -3,65
+Hacim: 24.712.287
+
+Hisse Adi: KUVVA
+Hisse Fiyati: 51,00
+Degisim: -5,00
+Hacim: 3.292.082
+
+Hisse Adi: KUYAS
+Hisse Fiyati: 35,62
+Degisim: -3,94
+Hacim: 907.562.974
+
+Hisse Adi: KZBGY
+Hisse Fiyati: 5,56
+Degisim: -0,44
+Hacim: 87.744.992
+
+Hisse Adi: KZGYO
+Hisse Fiyati: 17,91
+Degisim: -1,60
+Hacim: 18.811.581
+
+Hisse Adi: LIDER
+Hisse Fiyati: 183,00
+Degisim: -11,00
+Hacim: 145.060.525
+
+Hisse Adi: LIDFA
+Hisse Fiyati: 2,64
+Degisim: -0,28
+Hacim: 34.414.304
+
+Hisse Adi: LILAK
+Hisse Fiyati: 23,12
+Degisim: -1,18
+Hacim: 86.141.539
+
+Hisse Adi: LINK
+Hisse Fiyati: 393,50
+Degisim: -34,50
+Hacim: 29.527.662
+
+Hisse Adi: LKMNH
+Hisse Fiyati: 16,97
+Degisim: -1,08
+Hacim: 63.794.101
+
+Hisse Adi: LMKDC
+Hisse Fiyati: 28,92
+Degisim: -1,88
+Hacim: 287.148.662
+
+Hisse Adi: LOGO
+Hisse Fiyati: 119,70
+Degisim: 0,70
+Hacim: 176.815.911
+
+Hisse Adi: LRSHO
+Hisse Fiyati: 2,18
+Degisim: -0,12
+Hacim: 64.722.407
+
+Hisse Adi: LUKSK
+Hisse Fiyati: 79,25
+Degisim: -6,55
+Hacim: 21.699.519
+
+Hisse Adi: LYDHO
+Hisse Fiyati: 85,35
+Degisim: -1,10
+Hacim: 290.616.583
+
+Hisse Adi: LYDYE
+Hisse Fiyati: 13.087,50
+Degisim: 135,00
+Hacim: 98.312.960
+
+Hisse Adi: MAALT
+Hisse Fiyati: 702,50
+Degisim: -78,00
+Hacim: 53.308.521
+
+Hisse Adi: MACKO
+Hisse Fiyati: 96,70
+Degisim: -9,30
+Hacim: 31.768.835
+
+Hisse Adi: MAGEN
+Hisse Fiyati: 25,60
+Degisim: -2,10
+Hacim: 121.285.629
+
+Hisse Adi: MAKIM
+Hisse Fiyati: 16,67
+Degisim: 0,11
+Hacim: 16.686.484
+
+Hisse Adi: MAKTK
+Hisse Fiyati: 8,44
+Degisim: -0,71
+Hacim: 133.082.626
+
+Hisse Adi: MANAS
+Hisse Fiyati: 10,11
+Degisim: -0,98
+Hacim: 42.655.280
+
+Hisse Adi: MARBL
+Hisse Fiyati: 10,34
+Degisim: -0,92
+Hacim: 19.739.103
+
+Hisse Adi: MARKA
+Hisse Fiyati: 60,75
+Degisim: -6,75
+Hacim: 19.857.568
+
+Hisse Adi: MARTI
+Hisse Fiyati: 2,62
+Degisim: -0,22
+Hacim: 28.010.463
+
+Hisse Adi: MAVI
+Hisse Fiyati: 64,50
+Degisim: -5,35
+Hacim: 777.163.585
+
+Hisse Adi: MEDTR
+Hisse Fiyati: 38,90
+Degisim: -1,28
+Hacim: 10.333.913
+
+Hisse Adi: MEGAP
+Hisse Fiyati: 2,98
+Degisim: -0,33
+Hacim: 6.540.190
+
+Hisse Adi: MEGMT
+Hisse Fiyati: 27,02
+Degisim: -2,96
+Hacim: 128.893.645
+
+Hisse Adi: MEKAG
+Hisse Fiyati: 41,40
+Degisim: -0,90
+Hacim: 14.970.789
+
+Hisse Adi: MEPET
+Hisse Fiyati: 7,44
+Degisim: -0,76
+Hacim: 2.879.190
+
+Hisse Adi: MERCN
+Hisse Fiyati: 17,08
+Degisim: 0,07
+Hacim: 101.831.610
+
+Hisse Adi: MERIT
+Hisse Fiyati: 11,41
+Degisim: -1,26
+Hacim: 34.382.778
+
+Hisse Adi: MERKO
+Hisse Fiyati: 13,47
+Degisim: -0,92
+Hacim: 57.342.131
+
+Hisse Adi: METRO
+Hisse Fiyati: 2,30
+Degisim: -0,15
+Hacim: 13.672.240
+
+Hisse Adi: METUR
+Hisse Fiyati: 14,46
+Degisim: -1,49
+Hacim: 50.429.603
+
+Hisse Adi: MGROS
+Hisse Fiyati: 449,00
+Degisim: -41,75
+Hacim: 1.423.942.803
+
+Hisse Adi: MHRGY
+Hisse Fiyati: 4,04
+Degisim: -0,23
+Hacim: 15.494.778
+
+Hisse Adi: MIATK
+Hisse Fiyati: 36,56
+Degisim: -3,42
+Hacim: 974.606.410
+
+Hisse Adi: MMCAS
+Hisse Fiyati: 21,30
+Degisim: -0,32
+Hacim: 3.141.548
+
+Hisse Adi: MNDRS
+Hisse Fiyati: 8,70
+Degisim: -0,80
+Hacim: 32.204.099
+
+Hisse Adi: MNDTR
+Hisse Fiyati: 4,97
+Degisim: -0,46
+Hacim: 10.907.037
+
+Hisse Adi: MOBTL
+Hisse Fiyati: 3,62
+Degisim: -0,11
+Hacim: 23.494.319
+
+Hisse Adi: MOGAN
+Hisse Fiyati: 8,02
+Degisim: -0,36
+Hacim: 90.485.711
+
+Hisse Adi: MOPAS
+Hisse Fiyati: 23,82
+Degisim: -2,64
+Hacim: 133.449.876
+
+Hisse Adi: MPARK
+Hisse Fiyati: 305,50
+Degisim: -1,25
+Hacim: 264.455.316
+
+Hisse Adi: MRGYO
+Hisse Fiyati: 1,23
+Degisim: -0,13
+Hacim: 85.550.298
+
+Hisse Adi: MRSHL
+Hisse Fiyati: 1.328,00
+Degisim: -77,00
+Hacim: 22.954.362
+
+Hisse Adi: MSGYO
+Hisse Fiyati: 4,12
+Degisim: -0,33
+Hacim: 8.651.693
+
+Hisse Adi: MTRKS
+Hisse Fiyati: 21,52
+Degisim: -1,08
+Hacim: 33.931.531
+
+Hisse Adi: MTRYO
+Hisse Fiyati: 6,22
+Degisim: -0,16
+Hacim: 2.253.753
+
+Hisse Adi: MZHLD
+Hisse Fiyati: 5,42
+Degisim: -0,20
+Hacim: 2.108.442
+
+Hisse Adi: NATEN
+Hisse Fiyati: 42,30
+Degisim: -0,24
+Hacim: 156.960.377
+
+Hisse Adi: NETAS
+Hisse Fiyati: 50,60
+Degisim: -4,90
+Hacim: 42.816.281
+
+Hisse Adi: NIBAS
+Hisse Fiyati: 13,65
+Degisim: -1,10
+Hacim: 14.447.197
+
+Hisse Adi: NTGAZ
+Hisse Fiyati: 6,24
+Degisim: -0,51
+Hacim: 39.626.461
+
+Hisse Adi: NTHOL
+Hisse Fiyati: 35,64
+Degisim: -3,96
+Hacim: 136.633.153
+
+Hisse Adi: NUGYO
+Hisse Fiyati: 6,05
+Degisim: -0,52
+Hacim: 12.255.176
+
+Hisse Adi: NUHCM
+Hisse Fiyati: 264,00
+Degisim: -16,75
+Hacim: 120.947.888
+
+Hisse Adi: OBAMS
+Hisse Fiyati: 42,04
+Degisim: -4,66
+Hacim: 83.584.929
+
+Hisse Adi: OBASE
+Hisse Fiyati: 25,40
+Degisim: -1,96
+Hacim: 13.098.154
+
+Hisse Adi: ODAS
+Hisse Fiyati: 4,71
+Degisim: -0,48
+Hacim: 327.096.998
+
+Hisse Adi: ODINE
+Hisse Fiyati: 123,40
+Degisim: -2,00
+Hacim: 430.706.443
+
+Hisse Adi: OFSYM
+Hisse Fiyati: 36,58
+Degisim: -3,06
+Hacim: 17.199.013
+
+Hisse Adi: ONCSM
+Hisse Fiyati: 88,05
+Degisim: -7,30
+Hacim: 28.624.902
+
+Hisse Adi: ONRYT
+Hisse Fiyati: 59,00
+Degisim: -5,40
+Hacim: 134.326.212
+
+Hisse Adi: ORCAY
+Hisse Fiyati: 8,13
+Degisim: -0,53
+Hacim: 8.173.627
+
+Hisse Adi: ORGE
+Hisse Fiyati: 77,50
+Degisim: -5,65
+Hacim: 225.906.368
+
+Hisse Adi: ORMA
+Hisse Fiyati: 162,00
+Degisim: -8,70
+Hacim: 2.229.852
+
+Hisse Adi: OSMEN
+Hisse Fiyati: 8,68
+Degisim: -0,81
+Hacim: 21.104.525
+
+Hisse Adi: OSTIM
+Hisse Fiyati: 2,70
+Degisim: -0,02
+Hacim: 63.556.177
+
+Hisse Adi: OTKAR
+Hisse Fiyati: 451,25
+Degisim: -20,00
+Hacim: 264.534.238
+
+Hisse Adi: OTTO
+Hisse Fiyati: 336,00
+Degisim: -2,75
+Hacim: 10.492.722
+
+Hisse Adi: OYAKC
+Hisse Fiyati: 30,10
+Degisim: -1,48
+Hacim: 632.240.509
+
+Hisse Adi: OYAYO
+Hisse Fiyati: 20,36
+Degisim: -1,56
+Hacim: 1.962.349
+
+Hisse Adi: OYLUM
+Hisse Fiyati: 6,90
+Degisim: -0,30
+Hacim: 4.821.009
+
+Hisse Adi: OYYAT
+Hisse Fiyati: 25,96
+Degisim: -2,60
+Hacim: 20.413.656
+
+Hisse Adi: OZATD
+Hisse Fiyati: 108,10
+Degisim: -10,10
+Hacim: 640.058.780
+
+Hisse Adi: OZGYO
+Hisse Fiyati: 4,16
+Degisim: -0,40
+Hacim: 15.647.450
+
+Hisse Adi: OZKGY
+Hisse Fiyati: 10,25
+Degisim: -1,01
+Hacim: 118.509.866
+
+Hisse Adi: OZRDN
+Hisse Fiyati: 7,99
+Degisim: -0,41
+Hacim: 3.802.278
+
+Hisse Adi: OZSUB
+Hisse Fiyati: 33,90
+Degisim: -0,58
+Hacim: 29.064.559
+
+Hisse Adi: OZYSR
+Hisse Fiyati: 20,22
+Degisim: -1,72
+Hacim: 28.362.792
+
+Hisse Adi: PAGYO
+Hisse Fiyati: 59,00
+Degisim: -6,00
+Hacim: 9.393.264
+
+Hisse Adi: PAMEL
+Hisse Fiyati: 76,00
+Degisim: -6,40
+Hacim: 11.493.131
+
+Hisse Adi: PAPIL
+Hisse Fiyati: 29,34
+Degisim: 0,22
+Hacim: 386.356.640
+
+Hisse Adi: PARSN
+Hisse Fiyati: 75,45
+Degisim: -2,75
+Hacim: 21.643.791
+
+Hisse Adi: PASEU
+Hisse Fiyati: 38,48
+Degisim: 0,04
+Hacim: 699.622.006
+
+Hisse Adi: PATEK
+Hisse Fiyati: 76,75
+Degisim: -0,85
+Hacim: 556.427.743
+
+Hisse Adi: PCILT
+Hisse Fiyati: 12,18
+Degisim: -1,35
+Hacim: 75.039.079
+
+Hisse Adi: PEHOL
+Hisse Fiyati: 14,09
+Degisim: -1,56
+Hacim: 591.395.013
+
+Hisse Adi: PEKGY
+Hisse Fiyati: 1,37
+Degisim: -0,11
+Hacim: 363.462.755
+
+Hisse Adi: PENGD
+Hisse Fiyati: 6,34
+Degisim: -0,69
+Hacim: 40.463.377
+
+Hisse Adi: PENTA
+Hisse Fiyati: 12,85
+Degisim: -0,86
+Hacim: 41.509.791
+
+Hisse Adi: PETKM
+Hisse Fiyati: 15,81
+Degisim: -0,53
+Hacim: 1.253.964.451
+
+Hisse Adi: PETUN
+Hisse Fiyati: 7,94
+Degisim: -0,45
+Hacim: 22.563.708
+
+Hisse Adi: PGSUS
+Hisse Fiyati: 239,40
+Degisim: -26,60
+Hacim: 3.619.563.758
+
+Hisse Adi: PINSU
+Hisse Fiyati: 5,56
+Degisim: -0,50
+Hacim: 16.708.001
+
+Hisse Adi: PKART
+Hisse Fiyati: 55,40
+Degisim: -5,30
+Hacim: 13.375.101
+
+Hisse Adi: PKENT
+Hisse Fiyati: 194,00
+Degisim: -10,50
+Hacim: 26.693.397
+
+Hisse Adi: PLTUR
+Hisse Fiyati: 21,00
+Degisim: -1,68
+Hacim: 154.506.000
+
+Hisse Adi: PNLSN
+Hisse Fiyati: 35,70
+Degisim: -2,28
+Hacim: 24.170.795
+
+Hisse Adi: PNSUT
+Hisse Fiyati: 7,82
+Degisim: -0,43
+Hacim: 13.230.199
+
+Hisse Adi: POLHO
+Hisse Fiyati: 10,75
+Degisim: -0,19
+Hacim: 80.408.864
+
+Hisse Adi: POLTK
+Hisse Fiyati: 6.145,00
+Degisim: -200,00
+Hacim: 24.735.048
+
+Hisse Adi: PRDGS
+Hisse Fiyati: 4,46
+Degisim: -0,31
+Hacim: 12.428.695
+
+Hisse Adi: PRKAB
+Hisse Fiyati: 25,48
+Degisim: -1,48
+Hacim: 11.650.239
+
+Hisse Adi: PRKME
+Hisse Fiyati: 16,80
+Degisim: -1,54
+Hacim: 12.020.540
+
+Hisse Adi: PRZMA
+Hisse Fiyati: 9,35
+Degisim: -0,80
+Hacim: 46.594.198
+
+Hisse Adi: PSDTC
+Hisse Fiyati: 72,55
+Degisim: -7,45
+Hacim: 22.636.785
+
+Hisse Adi: PSGYO
+Hisse Fiyati: 1,52
+Degisim: -0,14
+Hacim: 317.098.578
+
+Hisse Adi: QNBFK
+Hisse Fiyati: 42,60
+Degisim: 1,94
+Hacim: 9.018.732
+
+Hisse Adi: QNBTR
+Hisse Fiyati: 373,25
+Degisim: -41,25
+Hacim: 21.526.025
+
+Hisse Adi: QUAGR
+Hisse Fiyati: 3,65
+Degisim: -0,26
+Hacim: 131.454.134
+
+Hisse Adi: RALYH
+Hisse Fiyati: 87,60
+Degisim: -3,45
+Hacim: 214.478.962
+
+Hisse Adi: RAYSG
+Hisse Fiyati: 247,50
+Degisim: -27,50
+Hacim: 238.957.945
+
+Hisse Adi: REEDR
+Hisse Fiyati: 10,86
+Degisim: -1,11
+Hacim: 332.697.183
+
+Hisse Adi: RGYAS
+Hisse Fiyati: 97,65
+Degisim: -8,15
+Hacim: 59.596.347
+
+Hisse Adi: RNPOL
+Hisse Fiyati: 23,90
+Degisim: 0,34
+Hacim: 8.326.792
+
+Hisse Adi: RODRG
+Hisse Fiyati: 15,80
+Degisim: -0,92
+Hacim: 3.343.844
+
+Hisse Adi: RTALB
+Hisse Fiyati: 2,75
+Degisim: -0,30
+Hacim: 76.081.313
+
+Hisse Adi: RUBNS
+Hisse Fiyati: 24,44
+Degisim: 2,22
+Hacim: 197.906.691
+
+Hisse Adi: RYGYO
+Hisse Fiyati: 12,03
+Degisim: -0,58
+Hacim: 133.976.870
+
+Hisse Adi: RYSAS
+Hisse Fiyati: 14,34
+Degisim: -1,59
+Hacim: 58.792.143
+
+Hisse Adi: SAFKR
+Hisse Fiyati: 74,15
+Degisim: -0,95
+Hacim: 52.067.273
+
+Hisse Adi: SAHOL
+Hisse Fiyati: 80,10
+Degisim: -8,90
+Hacim: 6.901.836.050
+
+Hisse Adi: SAMAT
+Hisse Fiyati: 15,69
+Degisim: -1,05
+Hacim: 20.730.135
+
+Hisse Adi: SANEL
+Hisse Fiyati: 20,80
+Degisim: -2,20
+Hacim: 2.400.469
+
+Hisse Adi: SANFM
+Hisse Fiyati: 37,00
+Degisim: -1,30
+Hacim: 63.044.624
+
+Hisse Adi: SANKO
+Hisse Fiyati: 19,38
+Degisim: -1,28
+Hacim: 10.787.442
+
+Hisse Adi: SARKY
+Hisse Fiyati: 17,74
+Degisim: -1,31
+Hacim: 87.005.310
+
+Hisse Adi: SASA
+Hisse Fiyati: 3,31
+Degisim: -0,29
+Hacim: 2.046.381.769
+
+Hisse Adi: SAYAS
+Hisse Fiyati: 28,96
+Degisim: -2,00
+Hacim: 42.596.641
+
+Hisse Adi: SDTTR
+Hisse Fiyati: 199,10
+Degisim: -16,00
+Hacim: 291.011.940
+
+Hisse Adi: SEGMN
+Hisse Fiyati: 18,46
+Degisim: -1,54
+Hacim: 31.855.922
+
+Hisse Adi: SEGYO
+Hisse Fiyati: 4,52
+Degisim: -0,20
+Hacim: 51.695.525
+
+Hisse Adi: SEKFK
+Hisse Fiyati: 7,23
+Degisim: -0,41
+Hacim: 9.744.138
+
+Hisse Adi: SEKUR
+Hisse Fiyati: 13,15
+Degisim: 0,00
+Hacim: 6.818.695
+
+Hisse Adi: SELEC
+Hisse Fiyati: 62,15
+Degisim: -2,85
+Hacim: 84.250.388
+
+Hisse Adi: SELGD
+Hisse Fiyati: 44,12
+Degisim: -1,60
+Hacim: 5.879.339
+
+Hisse Adi: SELVA
+Hisse Fiyati: 1,69
+Degisim: -0,18
+Hacim: 67.617.045
+
+Hisse Adi: SERNT
+Hisse Fiyati: 8,34
+Degisim: -0,92
+Hacim: 102.628.995
+
+Hisse Adi: SEYKM
+Hisse Fiyati: 2,90
+Degisim: -0,09
+Hacim: 6.604.551
+
+Hisse Adi: SILVR
+Hisse Fiyati: 15,70
+Degisim: -1,10
+Hacim: 4.616.376
+
+Hisse Adi: SISE
+Hisse Fiyati: 35,10
+Degisim: -3,40
+Hacim: 2.826.661.706
+
+Hisse Adi: SKBNK
+Hisse Fiyati: 3,95
+Degisim: -0,36
+Hacim: 221.997.094
+
+Hisse Adi: SKTAS
+Hisse Fiyati: 3,92
+Degisim: -0,28
+Hacim: 7.383.736
+
+Hisse Adi: SKYLP
+Hisse Fiyati: 92,75
+Degisim: -9,75
+Hacim: 25.309.780
+
+Hisse Adi: SKYMD
+Hisse Fiyati: 14,76
+Degisim: -1,63
+Hacim: 20.636.552
+
+Hisse Adi: SMART
+Hisse Fiyati: 24,46
+Degisim: -1,82
+Hacim: 25.005.070
+
+Hisse Adi: SMRTG
+Hisse Fiyati: 30,66
+Degisim: -2,86
+Hacim: 110.543.358
+
+Hisse Adi: SMRVA
+Hisse Fiyati: 30,86
+Degisim: 1,36
+Hacim: 351.063.905
+
+Hisse Adi: SNGYO
+Hisse Fiyati: 2,97
+Degisim: -0,27
+Hacim: 203.354.767
+
+Hisse Adi: SNICA
+Hisse Fiyati: 3,70
+Degisim: -0,24
+Hacim: 46.972.607
+
+Hisse Adi: SNKRN
+Hisse Fiyati: 85,00
+Degisim: -3,00
+Hacim: 7.631.390
+
+Hisse Adi: SNPAM
+Hisse Fiyati: 50,95
+Degisim: -2,30
+Hacim: 1.177.728
+
+Hisse Adi: SODSN
+Hisse Fiyati: 80,50
+Degisim: -6,90
+Hacim: 893.091
+
+Hisse Adi: SOKE
+Hisse Fiyati: 10,30
+Degisim: -0,70
+Hacim: 25.185.507
+
+Hisse Adi: SOKM
+Hisse Fiyati: 34,36
+Degisim: -3,80
+Hacim: 459.857.055
+
+Hisse Adi: SONME
+Hisse Fiyati: 81,70
+Degisim: -4,85
+Hacim: 7.649.168
+
+Hisse Adi: SRVGY
+Hisse Fiyati: 2,61
+Degisim: -0,28
+Hacim: 53.518.590
+
+Hisse Adi: SUMAS
+Hisse Fiyati: 293,00
+Degisim: -24,50
+Hacim: 2.014.981
+
+Hisse Adi: SUNTK
+Hisse Fiyati: 29,88
+Degisim: -3,30
+Hacim: 42.974.604
+
+Hisse Adi: SURGY
+Hisse Fiyati: 35,80
+Degisim: -3,00
+Hacim: 42.752.566
+
+Hisse Adi: SUWEN
+Hisse Fiyati: 20,78
+Degisim: -2,30
+Hacim: 15.091.093
+
+Hisse Adi: TABGD
+Hisse Fiyati: 155,70
+Degisim: -9,40
+Hacim: 175.923.900
+
+Hisse Adi: TARKM
+Hisse Fiyati: 325,25
+Degisim: -18,75
+Hacim: 43.470.311
+
+Hisse Adi: TATEN
+Hisse Fiyati: 33,12
+Degisim: -1,94
+Hacim: 61.623.714
+
+Hisse Adi: TATGD
+Hisse Fiyati: 12,06
+Degisim: -0,29
+Hacim: 16.892.747
+
+Hisse Adi: TAVHL
+Hisse Fiyati: 240,80
+Degisim: -12,95
+Hacim: 1.124.103.558
+
+Hisse Adi: TBORG
+Hisse Fiyati: 160,80
+Degisim: -12,70
+Hacim: 25.349.316
+
+Hisse Adi: TCELL
+Hisse Fiyati: 87,40
+Degisim: -9,70
+Hacim: 5.943.318.524
+
+Hisse Adi: TCKRC
+Hisse Fiyati: 31,62
+Degisim: -3,38
+Hacim: 88.523.967
+
+Hisse Adi: TDGYO
+Hisse Fiyati: 15,30
+Degisim: -0,29
+Hacim: 11.177.325
+
+Hisse Adi: TEKTU
+Hisse Fiyati: 3,75
+Degisim: -0,33
+Hacim: 19.994.712
+
+Hisse Adi: TERA
+Hisse Fiyati: 44,88
+Degisim: -4,98
+Hacim: 255.050.737
+
+Hisse Adi: TEZOL
+Hisse Fiyati: 16,79
+Degisim: -1,61
+Hacim: 75.279.213
+
+Hisse Adi: TGSAS
+Hisse Fiyati: 55,25
+Degisim: -2,15
+Hacim: 4.654.192
+
+Hisse Adi: THYAO
+Hisse Fiyati: 285,75
+Degisim: -22,25
+Hacim: 15.403.992.757
+
+Hisse Adi: TKFEN
+Hisse Fiyati: 129,30
+Degisim: 11,40
+Hacim: 5.129.982.999
+
+Hisse Adi: TKNSA
+Hisse Fiyati: 30,14
+Degisim: -3,34
+Hacim: 83.079.805
+
+Hisse Adi: TLMAN
+Hisse Fiyati: 82,25
+Degisim: -7,75
+Hacim: 25.879.651
+
+Hisse Adi: TMPOL
+Hisse Fiyati: 69,60
+Degisim: -4,70
+Hacim: 13.897.774
+
+Hisse Adi: TMSN
+Hisse Fiyati: 91,65
+Degisim: -6,95
+Hacim: 90.319.472
+
+Hisse Adi: TNZTP
+Hisse Fiyati: 29,76
+Degisim: -3,30
+Hacim: 27.974.373
+
+Hisse Adi: TOASO
+Hisse Fiyati: 174,40
+Degisim: -12,00
+Hacim: 2.094.978.401
+
+Hisse Adi: TRCAS
+Hisse Fiyati: 31,70
+Degisim: -1,84
+Hacim: 72.384.406
+
+Hisse Adi: TRGYO
+Hisse Fiyati: 54,25
+Degisim: -2,95
+Hacim: 221.262.646
+
+Hisse Adi: TRILC
+Hisse Fiyati: 21,62
+Degisim: -2,30
+Hacim: 88.234.682
+
+Hisse Adi: TSGYO
+Hisse Fiyati: 8,71
+Degisim: -0,53
+Hacim: 643.885.655
+
+Hisse Adi: TSKB
+Hisse Fiyati: 10,09
+Degisim: -1,12
+Hacim: 464.794.559
+
+Hisse Adi: TSPOR
+Hisse Fiyati: 0,94
+Degisim: -0,06
+Hacim: 227.198.390
+
+Hisse Adi: TTKOM
+Hisse Fiyati: 45,64
+Degisim: -5,06
+Hacim: 1.190.785.732
+
+Hisse Adi: TTRAK
+Hisse Fiyati: 827,00
+Degisim: 2,00
+Hacim: 744.816.736
+
+Hisse Adi: TUCLK
+Hisse Fiyati: 7,37
+Degisim: -0,71
+Hacim: 26.485.890
+
+Hisse Adi: TUKAS
+Hisse Fiyati: 1,96
+Degisim: -0,12
+Hacim: 135.841.649
+
+Hisse Adi: TUPRS
+Hisse Fiyati: 135,60
+Degisim: -6,30
+Hacim: 4.315.893.718
+
+Hisse Adi: TUREX
+Hisse Fiyati: 207,00
+Degisim: 2,40
+Hacim: 638.013.174
+
+Hisse Adi: TURGG
+Hisse Fiyati: 422,25
+Degisim: -46,75
+Hacim: 16.535.049
+
+Hisse Adi: TURSG
+Hisse Fiyati: 15,70
+Degisim: -1,10
+Hacim: 242.078.400
+
+Hisse Adi: UFUK
+Hisse Fiyati: 538,50
+Degisim: -16,50
+Hacim: 82.909.357
+
+Hisse Adi: ULAS
+Hisse Fiyati: 21,74
+Degisim: -2,40
+Hacim: 13.908.455
+
+Hisse Adi: ULKER
+Hisse Fiyati: 113,30
+Degisim: -12,50
+Hacim: 1.504.306.565
+
+Hisse Adi: ULUFA
+Hisse Fiyati: 12,78
+Degisim: -1,22
+Hacim: 28.136.644
+
+Hisse Adi: ULUSE
+Hisse Fiyati: 130,40
+Degisim: -10,10
+Hacim: 8.030.378
+
+Hisse Adi: ULUUN
+Hisse Fiyati: 5,46
+Degisim: -0,45
+Hacim: 30.723.694
+
+Hisse Adi: UMPAS
+Hisse Fiyati: 0,00
+Degisim: -9,30
+Hacim: 0
+
+Hisse Adi: UNLU
+Hisse Fiyati: 12,66
+Degisim: -1,24
+Hacim: 4.427.409
+
+Hisse Adi: USAK
+Hisse Fiyati: 3,36
+Degisim: 0,11
+Hacim: 310.412.631
+
+Hisse Adi: VAKBN
+Hisse Fiyati: 22,26
+Degisim: -1,34
+Hacim: 1.243.493.911
+
+Hisse Adi: VAKFN
+Hisse Fiyati: 2,05
+Degisim: -0,21
+Hacim: 157.034.995
+
+Hisse Adi: VAKKO
+Hisse Fiyati: 64,45
+Degisim: -7,15
+Hacim: 76.460.612
+
+Hisse Adi: VANGD
+Hisse Fiyati: 18,80
+Degisim: -1,26
+Hacim: 5.221.396
+
+Hisse Adi: VBTYZ
+Hisse Fiyati: 17,85
+Degisim: -1,73
+Hacim: 24.101.350
+
+Hisse Adi: VERTU
+Hisse Fiyati: 29,78
+Degisim: -2,10
+Hacim: 15.976.852
+
+Hisse Adi: VERUS
+Hisse Fiyati: 213,60
+Degisim: 0,30
+Hacim: 56.790.973
+
+Hisse Adi: VESBE
+Hisse Fiyati: 12,98
+Degisim: -1,04
+Hacim: 53.486.487
+
+Hisse Adi: VESTL
+Hisse Fiyati: 46,76
+Degisim: -5,19
+Hacim: 369.109.640
+
+Hisse Adi: VKFYO
+Hisse Fiyati: 16,40
+Degisim: -1,06
+Hacim: 1.696.216
+
+Hisse Adi: VKGYO
+Hisse Fiyati: 1,89
+Degisim: -0,13
+Hacim: 91.806.142
+
+Hisse Adi: VKING
+Hisse Fiyati: 24,82
+Degisim: -0,46
+Hacim: 1.999.013
+
+Hisse Adi: VRGYO
+Hisse Fiyati: 2,35
+Degisim: -0,17
+Hacim: 35.280.447
+
+Hisse Adi: VSNMD
+Hisse Fiyati: 131,50
+Degisim: -14,60
+Hacim: 54.898.648
+
+Hisse Adi: YAPRK
+Hisse Fiyati: 658,00
+Degisim: -68,50
+Hacim: 55.164.649
+
+Hisse Adi: YATAS
+Hisse Fiyati: 23,80
+Degisim: -1,90
+Hacim: 39.690.123
+
+Hisse Adi: YAYLA
+Hisse Fiyati: 20,04
+Degisim: -0,72
+Hacim: 10.109.127
+
+Hisse Adi: YBTAS
+Hisse Fiyati: 154.385,00
+Degisim: 14.035,00
+Hacim: 5.712.245
+
+Hisse Adi: YEOTK
+Hisse Fiyati: 51,30
+Degisim: -5,70
+Hacim: 400.555.937
+
+Hisse Adi: YESIL
+Hisse Fiyati: 1,34
+Degisim: -0,10
+Hacim: 27.004.919
+
+Hisse Adi: YGGYO
+Hisse Fiyati: 73,30
+Degisim: 1,70
+Hacim: 15.977.202
+
+Hisse Adi: YGYO
+Hisse Fiyati: 4,75
+Degisim: -0,25
+Hacim: 5.363.974
+
+Hisse Adi: YIGIT
+Hisse Fiyati: 25,70
+Degisim: -2,50
+Hacim: 121.906.833
+
+Hisse Adi: YKBNK
+Hisse Fiyati: 24,08
+Degisim: -2,66
+Hacim: 11.538.514.337
+
+Hisse Adi: YKSLN
+Hisse Fiyati: 6,93
+Degisim: -0,76
+Hacim: 11.093.239
+
+Hisse Adi: YONGA
+Hisse Fiyati: 50,40
+Degisim: -3,10
+Hacim: 1.252.688
+
+Hisse Adi: YUNSA
+Hisse Fiyati: 5,91
+Degisim: -0,52
+Hacim: 104.199.895
+
+Hisse Adi: YYAPI
+Hisse Fiyati: 1,34
+Degisim: -0,07
+Hacim: 46.314.279
+
+Hisse Adi: YYLGD
+Hisse Fiyati: 8,56
+Degisim: -0,64
+Hacim: 59.148.732
+
+Hisse Adi: ZEDUR
+Hisse Fiyati: 6,55
+Degisim: -0,49
+Hacim: 8.378.695
+
+Hisse Adi: ZOREN
+Hisse Fiyati: 3,24
+Degisim: -0,30
+Hacim: 239.442.934
+
+Hisse Adi: ZRGYO
+Hisse Fiyati: 19,98
+Degisim: -0,62
+Hacim: 135.478.801
+
