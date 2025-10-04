@@ -1,40 +1,29 @@
-# AI-Powered-Stock-Market-Technical-Analysis-Hand-Tracking-Application.-
-We will examine two innovative applications you can develop using the Python programming language: a fingerprint secure login system and computer control via hand tracking. We'll explore the advantages and areas of application offered by biometric technologies and hand gesture recognition systems.
+# Sanal ortam oluştur
+python -m venv venv
 
-AI-Powered-Stock-Market-App/
-├── .env          # API anahtarları
-├── requirements.txt
-├── data/         # Eğitilmiş AI modelleri veya örnek veri
-│   └── lstm_model.h5
-├── src/
-│   ├── ai_model.py     # AI model eğitimi ve tahmini
-│   ├── hand_tracker.py # El takibi mantığı ve gesture recognition
-│   ├── analysis.py     # Teknik göstergelerin hesaplanması
-│   └── app.py          # Ana Streamlit/Flask uygulama dosyası
-└── README.md
+# Sanal ortamı etkinleştir (Linux/macOS)
+source venv/bin/activate
 
-MediaPipe: El takibi için iskelet yapısını çıkarmak ve hareketleri tanımak.
+# Sanal ortamı etkinleştir (Windows)
+# .\venv\Scripts\activate
 
-yfinance: Hisse senedi/kripto verilerini API kullanmadan ücretsiz çekmek.
+# Gerekli Kütüphaneler
+mediapipe
+opencv-python
+yfinance
+streamlit
+scikit-learn
+tensorflow # Veya PyTorch (LSTM modeli için)
+pandas
+numpy
+python-dotenv
 
-Streamlit (veya Dash): Kullanıcı arayüzünü (UI) hızlıca oluşturmak ve interaktif grafikleri göstermek.
+pip install -r requirements.txt
 
-OpenCV: Webcam'den canlı görüntü akışını almak ve işlemek.
+# Lütfen .env dosyasını projenin ana dizininde (AI-Powered-Stock-Market-App/) oluşturun.
+# Gerekli ise, Finansal API anahtarınızı buraya girin.
+# Eğer sadece yfinance kullanılıyorsa bu satır gerekli olmayabilir,
+# ancak Streamlit'te ortam değişkeni okumak için yine de yararlıdır.
+FINANCIAL_API_KEY="YOUR_API_KEY_HERE"
 
-Gereksinimler: (Python 3.x, Webcam, vs.)
-
-requirements.txt: Bu dosyanın içeriğini kontrol edin. Eksik kütüphane olmasın.
-
-API Anahtarı Yapılandırması: Eğer bir finansal veri API'si (Örn: Alpha Vantage, Finnhub) kullanıyorsanız, kullanıcıların bir .env dosyasına hangi anahtarı girmesi gerektiğini açıkça belirtin.
-
-Bash
-
-# .env dosyası oluştur
-# YOUR_API_KEY_HERE yerine kendi anahtarınızı girin
-FINANCIAL_API_KEY=YOUR_API_KEY_HERE 
-Uygulama Çalıştırma Komutu:
-
-Bash
-
-# Streamlit kullanıyorsanız:
-streamlit run app.py
+streamlit run src/app.py
